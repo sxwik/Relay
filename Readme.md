@@ -2,7 +2,12 @@
 
 > The Android Workstation for Windows.
 
-[ Documentation](./docs) • [ FAQ](./FAQ'S.md) • [ Report a Bug](../../issues) • [ Request a Feature](../../issues)
+## Documentation
+
+- [FAQ](FAQ.md)
+- [License](LICENSE)
+- [Third Party Notices](THIRD_PARTY_NOTICES.md)
+- [Releases](../../releases/latest)
 
 ---
 <p align="center">
