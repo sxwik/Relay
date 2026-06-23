@@ -4,7 +4,7 @@
 
 ## Documentation
 
-- [FAQ](FAQ's.md)
+- [FAQ](FAQ'S.md)
 - [License](LICENSE)
 - [Third Party Notices](THIRD_PARTY_NOTICES.md)
 - [Releases](../../releases/latest)
