@@ -2,27 +2,42 @@
 
 > The Android Workstation for Windows.
 
-Relay is a desktop application that unifies Android device management, debugging, recovery tools, screen mirroring, file management, package management, device analysis, and continuity features into a single workspace.
+[ Documentation](./docs) • [ FAQ](./FAQ'S.md) • [ Report a Bug](../../issues) • [ Request a Feature](../../issues)
 
-Instead of juggling ADB, scrcpy, Fastboot, APK installers, file explorers, and terminal windows, Relay brings everything together in one modern interface.
+---
+
+## Quick Links
+
+*  Documentation
+*  FAQ
+*  Installation
+*  Supported Devices
+*  Features
+*  ROM Analysis
+*  Troubleshooting
+
+### Frequently Asked Questions
+
+Before opening an issue, check the FAQ:
+
+**[Open FAQ'S.md](./FAQ'S.md)**
+
+The FAQ covers:
+
+* Device detection issues
+* BlueStacks and emulator support
+* ADB troubleshooting
+* Screen mirroring problems
+* Fastboot questions
+* ROM analysis questions
+* File transfer issues
+* Common setup mistakes
 
 ---
 
 ## Why Relay?
 
-Android power users often rely on multiple disconnected tools:
-
-* ADB
-* scrcpy
-* Fastboot
-* Package managers
-* File explorers
-* Recovery tools
-* Terminal sessions
-
-Relay combines these tools into a single workstation designed for developers, enthusiasts, repair technicians, ROM users, and anyone who wants deeper control over their Android devices.
-
----
+Relay combines ADB, scrcpy, Fastboot, file management, package management, device analysis, and Android workstation tools into a single desktop application.
 
 ## Features
 
