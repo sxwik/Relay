@@ -309,4 +309,36 @@ Current focus:
 
 ## License
 
-MIT License
+Relay is proprietary software developed by sxwik.
+
+Copyright © 2026 sxwik. All rights reserved.
+
+Relay includes third-party components:
+
+* scrcpy (Genymobile)
+* Android SDK Platform Tools (Google)
+
+These components remain the property of their respective authors and are subject to their own licenses.
+
+See `LICENSE` and `THIRD_PARTY_NOTICES.md` for details.
+
+---
+
+## Credits
+
+Relay was created and developed by **sxwik**.
+
+GitHub: https://github.com/sxwik
+
+---
+
+## Disclaimer
+
+Relay is intended for device management, diagnostics, development, testing, and research purposes.
+
+Users are responsible for any actions performed on their devices. Always create backups before modifying system software, unlocking bootloaders, flashing firmware, or performing recovery operations.
+
+---
+
+**Relay v1.0.0** • Android Workstation for Windows
+
