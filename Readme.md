@@ -5,6 +5,14 @@
 [ Documentation](./docs) • [ FAQ](./FAQ'S.md) • [ Report a Bug](../../issues) • [ Request a Feature](../../issues)
 
 ---
+<p align="center">
+  <a href="https://github.com/sxwik/Relay/releases/latest">
+    <img src="https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge" />
+  </a>
+</p>
+
+Android Workstation for Control, Analysis, and Diagnostics.
+---
 
 ## Quick Links
 
